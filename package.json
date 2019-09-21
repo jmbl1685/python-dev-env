@@ -1,0 +1,14 @@
+{
+  "name": "python-dev-env",
+  "version": "1.0.0",
+  "description": "Python Development Environment",
+  "scripts": {
+    "dev": "nodemon ./src/main.py --exec python"
+  },
+  "keywords": [],
+  "author": "Juan Batty <jmbl1685@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
